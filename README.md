@@ -1,4 +1,4 @@
-# gastos
+# Personal Exspenses App
 
 A new Flutter project.
 
